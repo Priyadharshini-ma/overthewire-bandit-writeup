@@ -15,6 +15,9 @@ cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 - Used the `tr` command to translate characters and decode the ROT13 text.
 - The decoded output revealed the password for Level 12.
 
+<img width="496" height="135" alt="image" src="https://github.com/user-attachments/assets/472babc1-c52d-4773-955c-69592ce40dde" />
+
+
 ## Password
 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
 
