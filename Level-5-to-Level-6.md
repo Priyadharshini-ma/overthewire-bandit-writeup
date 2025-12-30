@@ -20,6 +20,9 @@ cat ./maybehere07/.file2
 - Located the file `./maybehere07/.file2`.
 - Used `cat` to read the file and obtain the password.
 
+<img width="640" height="138" alt="image" src="https://github.com/user-attachments/assets/9081f887-c7e0-42b5-980e-229cc40da5be" />
+
+
 ## Password
 HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 
