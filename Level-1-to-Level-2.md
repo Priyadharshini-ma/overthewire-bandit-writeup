@@ -15,6 +15,9 @@ cat ./-
 - Since the filename starts with a dash, used `cat ./-` to correctly read the file.
 - The output contained the password for Level 2.
 
+<img width="539" height="262" alt="image" src="https://github.com/user-attachments/assets/9ba92075-ad6d-48b2-ad6f-b0bac04fe453" />
+
+
 ## Password
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
