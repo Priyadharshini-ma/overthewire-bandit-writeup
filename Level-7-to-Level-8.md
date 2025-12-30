@@ -15,6 +15,9 @@ grep millionth data.txt | awk '{print $2}'
 - The matching line contained two fields.
 - Used `awk '{print $2}'` to extract the second field, which is the password.
 
+<img width="494" height="170" alt="image" src="https://github.com/user-attachments/assets/4b91a426-b1ed-4c3e-8fe2-aa4caf2d6736" />
+
+
 ## Password
 dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 
