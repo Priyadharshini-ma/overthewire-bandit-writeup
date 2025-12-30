@@ -17,6 +17,9 @@ cat ./-file07
 - Used `cat ./-file07` to read the file safely.
 - The output contained the password for Level 5.
 
+<img width="406" height="327" alt="image" src="https://github.com/user-attachments/assets/29845521-6111-4759-bb8c-6e3cf26cf156" />
+
+
 ## Password
 4oQYVPkxZ0OEOO5pTW81FB8j8lxXGUQw
 
