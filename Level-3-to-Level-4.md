@@ -17,6 +17,9 @@ cat "...Hiding-From-You"
 - Found a hidden file named `...Hiding-From-You`.
 - Used `cat` to read the file and obtain the password.
 
+<img width="557" height="282" alt="image" src="https://github.com/user-attachments/assets/e8da148e-2009-4874-af68-74d72cbac641" />
+
+
 ## Password
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 
