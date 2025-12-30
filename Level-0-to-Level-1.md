@@ -13,6 +13,7 @@ cat readme
 - Found a file named `readme`.
 - Used `cat readme` to display its contents.
 - The output contained the password for Level 1.
+<img width="720" height="278" alt="image" src="https://github.com/user-attachments/assets/980ba7b8-9bb3-416e-93ea-9c4189dae8d1" />
 
 ## Password
 ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
