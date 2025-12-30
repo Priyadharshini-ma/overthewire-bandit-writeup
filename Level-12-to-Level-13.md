@@ -45,6 +45,9 @@ cat ak
 - Carefully followed each file transformation based on its detected type.
 - After the final extraction, used `cat` to read the file containing the password.
 
+<img width="791" height="529" alt="image" src="https://github.com/user-attachments/assets/feaca549-c4d8-408b-851f-3b8e26711308" />
+
+
 ## Password
 F05dwFsc0cbaIiH0h8J2euks2vdTDwAn
 
