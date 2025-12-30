@@ -19,6 +19,9 @@ cat ./var/lib/dpkg/info/bandit7.password
 - Located the file `bandit7.password`.
 - Used `cat` to read the file and obtain the password.
 
+<img width="683" height="155" alt="image" src="https://github.com/user-attachments/assets/dbfb5a45-4f99-4c31-bf8c-57cd5e8bed4d" />
+
+
 ## Password
 morbNTDkSW6jILUOYmdoMaLNOIFVAaj
 
