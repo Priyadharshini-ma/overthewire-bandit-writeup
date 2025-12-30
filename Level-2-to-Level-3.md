@@ -12,6 +12,8 @@ cat -- "--spaces in this filename--"
 - Identified a file named `--spaces in this filename--`.
 - Used `cat --` to safely read a filename that begins with dashes.
 - The file output contained the password for Level 3.
+  
+<img width="651" height="217" alt="image" src="https://github.com/user-attachments/assets/e42bf420-3ff7-42a7-b245-ced00aeebaac" />
 
 ## Password
 MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
