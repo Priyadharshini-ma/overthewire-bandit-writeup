@@ -13,6 +13,9 @@ base64 -d data.txt
 - Used `base64 -d` to decode the Base64-encoded content of the file.
 - The decoded output revealed the password for Level 11.
 
+<img width="408" height="138" alt="image" src="https://github.com/user-attachments/assets/af65d764-f4d2-49f3-bbd5-15d53ce15394" />
+
+
 ## Password
 dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 
