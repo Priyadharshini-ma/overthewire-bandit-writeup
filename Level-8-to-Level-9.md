@@ -14,6 +14,9 @@ sort data.txt | uniq -u
 - Used `uniq -u` to display the line that appears only once.
 - The unique line contained the password for Level 9.
 
+<img width="635" height="123" alt="image" src="https://github.com/user-attachments/assets/269d839e-5a2a-4978-b08d-3c9f716ec58f" />
+
+
 ## Password
 4CKMh1JI91bUIZZPXDQGanaL4xvAg0JM
 
